@@ -1,0 +1,9 @@
+C:\Users\anesu\source\repos\TestAnes\TestAnes.dal\bin\Debug\netstandard2.0\TestAnes.dal.deps.json
+C:\Users\anesu\source\repos\TestAnes\TestAnes.dal\bin\Debug\netstandard2.0\TestAnes.dal.dll
+C:\Users\anesu\source\repos\TestAnes\TestAnes.dal\obj\Debug\netstandard2.0\TestAnes.dal.AssemblyInfoInputs.cache
+C:\Users\anesu\source\repos\TestAnes\TestAnes.dal\obj\Debug\netstandard2.0\TestAnes.dal.AssemblyInfo.cs
+C:\Users\anesu\source\repos\TestAnes\TestAnes.dal\bin\Debug\netstandard2.0\TestAnes.dal.pdb
+C:\Users\anesu\source\repos\TestAnes\TestAnes.dal\obj\Debug\netstandard2.0\TestAnes.dal.csproj.CoreCompileInputs.cache
+C:\Users\anesu\source\repos\TestAnes\TestAnes.dal\obj\Debug\netstandard2.0\TestAnes.dal.dll
+C:\Users\anesu\source\repos\TestAnes\TestAnes.dal\obj\Debug\netstandard2.0\TestAnes.dal.pdb
+C:\Users\anesu\source\repos\TestAnes\TestAnes.dal\obj\Debug\netstandard2.0\TestAnes.dal.csprojAssemblyReference.cache
